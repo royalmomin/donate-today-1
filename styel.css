@@ -1,0 +1,97 @@
+
+    
+
+body{
+    background-image: url('../images/donation13.jpg');
+    background-repeat: no-repeat;
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    
+
+    
+}
+.header{
+    text-align: center;
+    color: white;
+    padding: 100px 400px;
+    
+}
+.header p{
+   padding-top: 40px;   
+    
+    
+}
+h1{
+    font-size: 35px;
+}
+.btn{
+    padding: 10px;
+    background-color: rgb(244, 97, 12);
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    margin-top: 10px;
+}
+/* donation section */
+
+.donate{
+    text-align: center;
+    margin: 0 375px 0px 375px;
+    
+}
+.donate p{
+    color: #707070;
+    
+}
+
+
+.value{
+    text-align: center;
+}
+
+
+.value ul{
+    display: inline-flex;
+    list-style-type: none;
+
+
+    
+    
+
+}
+.value li{
+    color: red;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+   
+    
+
+
+}
+.value li:hover{
+    border: 2px solid red;
+
+}
+.taka{
+    color: #707070;
+}
+.btn2{
+    background-color: rgb(244, 97, 12);
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    padding: 10px;
+}
+/* our donate plan */
+.donate-plan{
+    text-align: center;
+    margin: 0 375px 0px 375px;
+    padding-top: 60px;
+
+}
+.donate-plan p{
+    color: #707070;
+
+}
